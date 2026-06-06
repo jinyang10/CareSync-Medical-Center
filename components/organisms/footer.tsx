@@ -9,7 +9,7 @@ export default function Footer() {
             <div className="max-w-[1440px] mx-auto flex flex-col justify-between px-6 md:px-8 py-12 gap-20">
 
                 {/* 1 Div contains Left and Right sections */}
-                <div className="flex flex-col md:flex-row justify-between items-start gap-10">
+                <div className="flex flex-col md:flex-row justify-between">
 
                     {/* Left Section: Brand Info */}
                     <div className="flex flex-col gap-4 max-w-sm">
